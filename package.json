@@ -1,0 +1,23 @@
+{
+  "name": "diff-match-patch-js-browser-and-nodejs",
+  "version": "1.0.0",
+  "description": "npm package for https://github.com/google/diff-match-patch/javascript",
+  "keywords": [
+    "diff",
+    "diff-match-patch",
+    "google-diff-match-patch",
+    "diff-match-patch-js-browser-and-nodejs"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "testit": "^3.0.0"
+  },
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nanchen/diff-match-patch-js-browser-and-nodejs.git"
+  },
+  "license": "Apache-2.0"
+}
