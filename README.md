@@ -2,12 +2,7 @@
 
 npm package (browser and nodejs) for https://github.com/google/diff-match-patch/javascript
 
-[![Build Status](https://img.shields.io/travis/JackuB/diff-match-patch/master.svg)](https://travis-ci.org/JackuB/diff-match-patch)
-[![Dependency Status](https://img.shields.io/david/JackuB/diff-match-patch.svg)](https://david-dm.org/JackuB/diff-match-patch)
-[![NPM version](https://img.shields.io/npm/v/diff-match-patch.svg)](https://www.npmjs.com/package/diff-match-patch)
-[![Known Vulnerabilities](https://snyk.io/test/github/JackuB/diff-match-patch/badge.svg)](https://snyk.io/test/github/JackuB/diff-match-patch) 
-
-When importing the JS file from npm pacakge https://www.npmjs.com/package/diff-match-patch in a browser, it gives error: "Uncaught ReferenceError: module is not defined at index.js:2186", this motivated me to have this package.
+When importing the JS file from npm pacakge https://www.npmjs.com/package/diff-match-patch in a browser, it gives error: "Uncaught ReferenceError: module is not defined at index.js:2186", this motivated me to develop this package.
 
 ## Installation
 
